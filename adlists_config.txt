@@ -14,7 +14,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://hosts-file.net/ad_servers.txt
 https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt
 https://v.firebog.net/hosts/Easyprivacy.txt
-https://v.firebog.net/hosts/Airelle-trc.txt #This list seems to be completely abandoned by its owner.
 https://www.squidblacklist.org/downloads/dg-ads.acl
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
@@ -30,6 +29,10 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/host
 https://hphosts.gt500.org/hosts.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
+https://raw.githubusercontent.com/Ewpratten/youtube_ad_blocklist/master/blocklist.txt
+https://block.energized.pro/spark/formats/domains.txt
+https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/domains.txt
 
 ## Anti-Malware/Anti-Phishing/Other Security
 https://mirror1.malwaredomains.com/files/justdomains
@@ -44,6 +47,10 @@ https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://hosts-file.net/psh.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
+https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
 
 ## Mobile-based lists
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
