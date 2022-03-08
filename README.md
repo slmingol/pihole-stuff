@@ -16,7 +16,7 @@ A compilation of lists I use within different environments, sorted by "type".
 ### [Python Scripts](https://github.com/RooneyMcNibNug/pihole-stuff/tree/master/python_scripts)
 A few poorly cobbled together `.py` scripts to find possible URLs to add to the blocklist.
 
-#### Disabling localhost queries in pi-hole/FTL
+### Disabling localhost queries in pi-hole/FTL
 This forum post describes it a bit [IGNORE_LOCALHOST is ignored](https://discourse.pi-hole.net/t/ignore-localhost-is-ignored/41036). I can confirm this setting:
 
 ```
