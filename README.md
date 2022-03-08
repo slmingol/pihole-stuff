@@ -38,6 +38,7 @@ $ tail -200 /var/log/pihole-FTL.log | grep -i local
 These are here:
  - [Main Docs](https://docs.pi-hole.net/)
  - [FTLLLDNS Configuration File](https://docs.pi-hole.net/ftldns/configfile/)
+ - [Exclude localhost completely?](https://discourse.pi-hole.net/t/exclude-localhost-completely/4854)
 
 ### [Unbound DNS server configuration](https://github.com/RooneyMcNibNug/pihole-stuff/blob/master/unbound.conf.d/pi-hole.conf)
 A quick configuration for a recursive Unbound DNS server running on the same machine as pi-hole. As [noted](https://docs.pi-hole.net/guides/dns/unbound/#configure-unbound), Unbound creates a more comprehensively private alternative to relying on trusting third-party authorities, and pairs very well with pi-hole ad/tracker blocking.
